@@ -1,6 +1,6 @@
 { "homepage": "https://abdullahdaja.github.io/Portfolio2/",
   "name": "my-vite-react-app",
-  "private": true,
+  "private": false,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
