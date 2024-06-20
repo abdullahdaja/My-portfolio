@@ -8,7 +8,7 @@ function Hero() {
   return (
     <section id="hero" className={styles.container}>
       <div className={styles.Hero}>
-          <img className={styles.hero}  src={myImage} ></img>
+          <img className={styles.hero}  src='src\sections\Hero\me.jpg' ></img>
               <h1>Abdullah </h1><br></br>
               <h1>Hussein </h1>
               <hr></hr>
